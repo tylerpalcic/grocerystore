@@ -1,0 +1,126 @@
+html{
+    background-color: lightyellow;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shipping_form{
+    margin: auto;
+    margin-left: 10%;
+    display: block;
+    width: 100%;
+    align-content: center;
+}
+
+#return_to_cart_button{
+    margin-left: 50%;
+}
+
+h1{
+    width: 85%;
+    margin: auto;
+    text-align: center;
+    align-content: center;
+    color: black;
+    background-color: coral;
+    /*background-image: url("/final_project/images/grocery_bg.jpg");*/
+}
+
+footer{
+    width: 80%;
+    text-align: center;
+    padding: 5px;
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: lightcoral;
+}
+
+table{
+    background-color: mistyrose;
+}
+
+th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+}
+
+th, tr, td{
+    border: 1px solid black;
+    padding: 8px;
+}
+
+a{
+    margin-left: 83%;
+    height: 50px;
+    width: 50px;
+}
+
+figure{
+    display: block;
+}
+
+table{
+    border: 1px solid black;
+    align-content: center;
+    margin: auto;
+    margin-top: 40px;
+}
+
+table:empty{
+    display: none;
+}
+
+.cart_buttons{
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+}
+
+#shipping_info_form{
+    margin: auto;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+#shipping_submit{
+    margin: auto;
+    display: block;
+}
+
+h2{
+    text-align: center;
+    width: 100%;
+    color: gray;
+}
+
+.login_labels{
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+#confirmation{
+    margin: auto;
+    display: block;
+    width: 90%
+}
+
+#return_button{
+    margin-left: 55px;
+}
+
+#history_return_button{
+    margin-left: 42%;
+}
+
+#total{
+   font-weight: bold;
+}
+
+#admin_return_button{
+    margin-left: 45%;
+}

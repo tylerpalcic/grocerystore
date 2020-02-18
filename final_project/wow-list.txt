@@ -1,0 +1,6 @@
+Final Project Wow List
+Tyler Palcic
+
+1. Pre-pop the shipping information in the form for a user that has placed an order before.
+
+2. Radio button remains checked after sorting.
